@@ -1,4 +1,4 @@
 function updateObjectWithKeyAndValue(object, key, value) {
-Object.assign({}, Obj, {[key]: value})
-return Object.assign
+Object.assign({}, Object, {[key]: value})
+return Object.assign{}
 }
