@@ -3,5 +3,5 @@ return Object.assign({}, Object, {[key]: value})
 }
 
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
-  
+
 }
